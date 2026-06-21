@@ -1,5 +1,6 @@
 # aiueo
-aaaaa
-bbbbb
-cccccc
-ddddd
+aaa
+bb
+c
+dd
+eee
